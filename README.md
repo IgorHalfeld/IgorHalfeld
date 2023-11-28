@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-I'm a **Software Engineer** solving people's problems by creating modern and scalable end-to-end solutions, focusing only on what is needed to build and evolve the product.
+My name's Igor Halfeld and I'm a problem solver building [EXT. Contabilidade Online](https://extcontabilidade.com.br/?coupon=igorluizhalfeld@gmail.com), I was by three years Microsoft MVP, and I have been organizing Vue.js SP since 2017. (I also organized a 2-day conference called Vue.js Summit in 2018, a Node.js (@nodebr) and Javascript (@jssp) group at Sao Paulo)
 
-I also do volunteer work as Organizer at Vue.js Brazil, Vue.js SP.
+I enjoy creating products, and addicted to the philosophy of build&learn in public. Recently created [storyseed.pro](https://storyseed.pro/) and [leanhackers.club](https://leanhackers.club/).
+
+Storyseed is an app that let you create content for your social network or blog in minutes with ChatGPT.
+
+Lean hackers is a paid community to talk about startups, tech and product.
+
+I've been in the technology field for over 10 years and creating products within startups for over 7 years.
+
+I've worked with several technologies between backend, frontend and mobile. The languages I currently mostly use are Javascript, Golang and Python.
+
+Do you have any ideas about startups, tech or products? Send me a DM on my Twitter
 
 Check out my [website](https://igorhalfeld.com/)
