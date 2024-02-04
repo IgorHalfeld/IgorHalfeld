@@ -8,7 +8,7 @@ Storyseed is an app that let you create content for your social network or blog 
 
 Lean hackers is a paid community to talk about startups, tech and product.
 
-I've been in the technology field for over 10 years and creating products within startups for over 7 years.
+I've been in the technology field for over 10 years and creating products within startups for over 8 years.
 
 I've worked with several technologies between backend, frontend and mobile. The languages I currently mostly use are Javascript, Golang and Python.
 
