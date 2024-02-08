@@ -12,6 +12,8 @@ I've been in the technology field for over 10 years and creating products within
 
 I've worked with several technologies between backend, frontend and mobile. The languages I currently mostly use are Javascript, Golang and Python.
 
+I also create content (pt-br) on [YouTube daily](https://www.youtube.com/@igorhalfeld), and do [lives on Twitch](https://www.twitch.tv/igorhalfeld), on tuesdays and thursdays.
+
 Do you have any ideas about startups, tech or products? Send me a DM on my Twitter
 
 Check out my [website](https://igorhalfeld.com/)
