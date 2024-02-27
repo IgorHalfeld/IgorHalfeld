@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Igor Halfeld and I'm a problem solver building [EXT. Contabilidade Online](https://extcontabilidade.com.br/?coupon=igorluizhalfeld@gmail.com), I was by three years Microsoft MVP, and I have been organizing Vue.js SP since 2017. (I also organized a 2-day conference called Vue.js Summit in 2018, a Node.js (@nodebr) and Javascript (@jssp) group at Sao Paulo)
+My name's Igor Halfeld and I'm a problem solver building [Ext. Contabilidade Online](https://extcontabilidade.com.br/?coupon=igorluizhalfeld@gmail.com), I was by three years Microsoft MVP, and I have been organizing Vue.js SP since 2017. (I also organized a 2-day conference called Vue.js Summit in 2018, a Node.js (@nodebr) and Javascript (@jssp) group at Sao Paulo)
 
 I enjoy creating products, and addicted to the philosophy of build&learn in public. Recently created [storyseed.pro](https://storyseed.pro/) and [leanhackers.club](https://leanhackers.club/).
 
